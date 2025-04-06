@@ -1,0 +1,11 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+        "trading_system": "./scripts/orchestration/start.py:graph"
+    },
+    "python_version": "3.13.1",
+    "env": "./.env",
+    "dependencies": [
+        "."
+    ]
+}
