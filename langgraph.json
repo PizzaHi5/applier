@@ -1,7 +1,7 @@
 {
     "dockerfile_lines": [],
     "graphs": {
-        "trading_system": "./scripts/orchestration/start.py:graph"
+        "trading_system": "./src/main.py:cua_agent"
     },
     "python_version": "3.13.1",
     "env": "./.env",
